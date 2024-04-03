@@ -5,8 +5,9 @@ I'm a passionate web developer based in Burkina Faso. My love for code manifests
 ## 🚀 Skills
 - Programming languages: PHP, JavaScript
 - Frameworks: Laravel, Livewire, 
-- Front-end technologies: HTML, CSS, jQuery, Bootstrapp, React
-- Database: MySQL, PostgreSQL,
+- Front-end technologies: HTML, CSS, jQuery, Bootstrapp, React Js
+- Back-end technologies: PHP
+- Database: MySQL,
 - Versioning tools: Git, GitHub
 
 ## 🌐 Notable projects
