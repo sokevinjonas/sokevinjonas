@@ -1,26 +1,30 @@
 # Hello, I'm Jonas! 👋
 
-I'm a passionate web developer based in Burkina Faso. My love for code manifests itself through the PHP language, with particular expertise in Laravel frameworks. I'm also fascinated by the field of artificial intelligence.
+Dev Full Stack (Laravel, Angular, Ionic, Adonis Js, ) | Entrepreneur | Formateur Tech | Concepteur API REST Full | Freelance & Remote | Passionné d'IA & Aspirant DevOps | Consultant en Dévéloppement Web au sein du Club informatique U - Auben
 
-## 🚀 Skills
+## 🚀 Compétences
 - Programming languages: PHP, JavaScript
-- Frameworks: Laravel, Livewire,Ionic, Angular 
-- Front-end technologies: HTML, CSS, jQuery, Bootstrapp, React Js, Angular
+- Frameworks: Laravel, Livewire,Ionic, Angular, Adonis JS, React Native
+- Front-end technologies: React Js, Angular, Ionic
 - Back-end technologies: PHP
 - Database: MySQL,
 - Versioning tools: Git, GitHub
 
-## 🌐 Notable projects
+## 🌐 Mes Projets accessibles au public
+- Lis moi (app de lecture): https://github.com/sokevinjonas/lis-moi
+- Couple Game (action/vérité):https://github.com/sokevinjonas/CoupleGame
+- InnoTech (Blog): https://github.com/sokevinjonas/InnoTech
+- Gestion Universitaire en PHP pure: https://github.com/sokevinjonas/School-Universite-Projet-in-PHP
 - GestionEmployer v1: https://github.com/jonasdevpro/gestion_employer.git 
 - Tontine app https://github.com/jonasdevpro/pteam_tontineVersion2.5.1.git
 - Todo List React app : https://github.com/jonasdevpro/first-projet-react.git
 
-Feel free to explore my GitHub projects to learn more about my work!
+N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mon travail !
 
-## 📫 How to contact me
-- LinkedIn: https://www.linkedin.com/in/jonas-so-784515274
+## 📫 Comment me contacter ?
+- LinkedIn: https://www.linkedin.com/in/sojonas/
 - Email: kjonasdevpro@gmail.com
 
-Feel free to contact me if you'd like to discuss exciting projects, collaborate or just chat about the world of web development and AI. I'm always open to new opportunities and rewarding connections!
+N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants, collaborer ou simplement discuter du monde du développement web et de l'IA. Je suis toujours ouvert à de nouvelles opportunités et à des relations enrichissantes !
 
 ![animation2](https://github.com/jonasdevpro/jonasdevpro/assets/142751744/123bf736-b2d3-47d8-b7d8-8cb0889a22d6)
