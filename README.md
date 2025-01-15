@@ -4,10 +4,10 @@ Dev Full Stack (Laravel, Angular, Ionic, Adonis Js, ) | Entrepreneur | Formateur
 
 ## 🚀 Compétences
 - Programming languages: PHP, JavaScript
-- Frameworks: Laravel, Livewire,Ionic, Angular, Adonis JS, React Native
-- Front-end technologies: React Js, Angular, Ionic
+- Frameworks: Laravel, Livewire,Ionic, Angular avec TypeScript, Adonis JS, React Js
+- Front-end technologies: React Js, Angular avec TypeScript, Ionic
 - Back-end technologies: PHP
-- Database: MySQL,
+- Database: MySQL, SQlite
 - Versioning tools: Git, GitHub
 
 ## 🌐 Mes Projets accessibles au public
