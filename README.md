@@ -1,14 +1,15 @@
 # Hello, I'm Jonas! 👋
 
-Dev Full Stack (Laravel, Angular, Ionic, Adonis Js, ) | Entrepreneur | Formateur Tech | Concepteur API REST Full | Freelance & Remote | Passionné d'IA & Aspirant DevOps | Consultant en Dévéloppement Web au sein du Club informatique U - Auben
+Développeur Web & Mobile autodidacte avec 3 ans d’expérience | Dompteur de Laravel, Ionic & Angular | Passionné de UI/UX | Social Media Manager à mes heures
 
 ## 🚀 Compétences
 - Programming languages: PHP, JavaScript
-- Frameworks: Laravel, Livewire,Ionic, Angular avec TypeScript, Adonis JS, React Js
-- Front-end technologies: React Js, Angular avec TypeScript, Ionic
+- Frameworks FullStack: Laravel, Livewire, Angular avec TypeScript, Adonis JS,
+- Frameworks mobile: Ionic, Flutter
+- Outils No/Low Code: Adalo, Flutter Flow
 - Back-end technologies: PHP
 - Database: MySQL, SQlite
-- Versioning tools: Git, GitHub
+- Versioning & tools: Git, GitHub, Git Action, CI/CD, Docker, Notion
 
 ## 🌐 Mes Projets accessibles au public
 - Lis moi (app de lecture): https://github.com/sokevinjonas/lis-moi
