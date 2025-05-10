@@ -10,7 +10,7 @@ Développeur Web & Mobile autodidacte avec 3 ans d’expérience <br> Social Med
 - GestionEmployer v1 avec Laravel version 10: ╰┈➤ https://github.com/jonasdevpro/gestion_employer.git 
 - Tontine app avec Laravel:╰┈➤ https://github.com/jonasdevpro/pteam_tontineVersion2.5.1.git
 - Todo List React app avec React Js : ╰┈➤ https://github.com/jonasdevpro/first-projet-react.git
-- CHALLENGE ODC CAN 2024 avec Laravel version 10: ╰┈➤ https://github.com/sokevinjonas/MaCan](https://github.com/sokevinjonas/MaCan.git
+- CHALLENGE ODC CAN 2024 avec Laravel version 10: ╰┈➤ https://github.com/sokevinjonas/MaCan.git
 
 
 # 💻 Tech Stack:
